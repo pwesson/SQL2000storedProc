@@ -1,0 +1,6 @@
+C:\Users\Paul\source\repos\Wesson.Win.Dev.StoreProc\Wesson.Win.Dev.StoreProc\obj\Debug\Wesson.Win.Dev.StoreProc.csproj.AssemblyReference.cache
+C:\Users\Paul\source\repos\Wesson.Win.Dev.StoreProc\Wesson.Win.Dev.StoreProc\obj\Debug\Wesson.Win.Dev.StoreProc.csproj.ResolveComReference.cache
+C:\Users\Paul\source\repos\Wesson.Win.Dev.StoreProc\Wesson.Win.Dev.StoreProc\obj\Debug\Wesson.Win.Dev.StoreProc.Form1.resources
+C:\Users\Paul\source\repos\Wesson.Win.Dev.StoreProc\Wesson.Win.Dev.StoreProc\obj\Debug\Wesson.Win.Dev.StoreProc.Properties.Resources.resources
+C:\Users\Paul\source\repos\Wesson.Win.Dev.StoreProc\Wesson.Win.Dev.StoreProc\obj\Debug\Wesson.Win.Dev.StoreProc.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\Wesson.Win.Dev.StoreProc\Wesson.Win.Dev.StoreProc\obj\Debug\Wesson.Win.Dev.StoreProc.csproj.CoreCompileInputs.cache
